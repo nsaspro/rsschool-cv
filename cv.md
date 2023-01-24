@@ -1,4 +1,4 @@
-# Natalia sas
+# Natalia Sas
 ## junior frontend 
 
 ## Contacts:
